@@ -103,3 +103,5 @@ Handy Python tool for preprocessing JSON data that contains unescaped quotes wit
 [paraffin](https://www.reddit.com/r/Python/comments/177704z/comment/k4r9brf/?utm_source=share&utm_medium=web2x&context=3)
 
 [Spleeeee](https://www.reddit.com/r/Python/comments/177704z/comment/k4tayrm/?utm_source=share&utm_medium=web2x&context=3)
+
+[easyEggplant](https://www.reddit.com/r/Python/comments/177704z/comment/k4uxbx4/?utm_source=share&utm_medium=web2x&context=3)
