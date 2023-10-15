@@ -74,11 +74,13 @@ Handy Python tool for preprocessing JSON data that contains unescaped quotes wit
 
  * **Windows:** 
    ```cmd
-   python3 %UserProfile%\json_esquotes\json_esquotes.py <%UserProfile%\json_esquotes\Assets\eg.txt >%UserProfile%\json_esquotes\eg_out.json && open %UserProfile%\json_esquotes\eg_out.json
+   python3 %UserProfile%\json_esquotes\json_esquotes.py <%UserProfile%\json_esquotes\Assets\eg.txt >%UserProfile%\json_esquotes\eg_out.json
+   open %UserProfile%\json_esquotes\eg_out.json
    ```
  * **Linux:** 
    ```cmd
-   python3 ~/json_esquotes/json_esquotes.py <~/json_esquotes/Assets/eg.txt >~/json_esquotes/eg_out.json && open ~/json_esquotes/eg_out.json
+   python3 ~/json_esquotes/json_esquotes.py <~/json_esquotes/Assets/eg.txt >~/json_esquotes/eg_out.json
+   open ~/json_esquotes/eg_out.json
    ```
 
 
