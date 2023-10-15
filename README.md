@@ -99,7 +99,7 @@ Handy Python tool for preprocessing JSON data that contains unescaped quotes wit
 
 
 
-## [Credits](https://www.reddit.com/r/Python/comments/177704z/json_quote_remover/)
+## [Credits](https://www.reddit.com/r/Python)
 [paraffin](https://www.reddit.com/r/Python/comments/177704z/comment/k4r9brf/?utm_source=share&utm_medium=web2x&context=3)
 
 [Spleeeee](https://www.reddit.com/r/Python/comments/177704z/comment/k4tayrm/?utm_source=share&utm_medium=web2x&context=3)
