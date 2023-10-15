@@ -1,0 +1,4 @@
+{"na"me": "Jack O"Sullivan", "id": "1"}
+{"name": "Jack: The "OG" O"Sullivan"", "id": "2"}
+{"test_str": {"1singlechar": "a""a""a", "2singlechars": "a"a"a"a"a"a"a"a"a"}, "id": "3"}
+{'name': 'Jack O'Sullivan, 'id': '4'}
